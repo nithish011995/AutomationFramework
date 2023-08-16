@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Org link clicked]]>
+    </line>
+    <line>
+      <![CDATA[create org look up image is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Organization created]]>
+    </line>
+    <line>
+      <![CDATA[Contacts link clicked]]>
+    </line>
+    <line>
+      <![CDATA[create contact look up image is clicked]]>
+    </line>
+    <line>
+      <![CDATA[Contact is created]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-08-16T07:36:10 IST" name="Default suite" finished-at="2023-08-16T07:39:10 IST" duration-ms="179662">
+    <groups>
+      <group name="SmokeSuite">
+        <method signature="CreateContactWithOrganizationTests.createContactWithOrg()[pri:0, instance:vtiger.ContactsTest.CreateContactWithOrganizationTests@6fa51cd4]" name="createContactWithOrg" class="vtiger.ContactsTest.CreateContactWithOrganizationTests"/>
+      </group> <!-- SmokeSuite -->
+    </groups>
+    <test started-at="2023-08-16T07:36:10 IST" name="Default test" finished-at="2023-08-16T07:39:10 IST" duration-ms="179662">
+      <class name="vtiger.ContactsTest.CreateContactWithOrganizationTests">
+        <test-method is-config="true" signature="bsConfig()[pri:0, instance:vtiger.ContactsTest.CreateContactWithOrganizationTests@6fa51cd4]" started-at="2023-08-16T07:36:10 IST" name="bsConfig" finished-at="2023-08-16T07:36:10 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bsConfig -->
+        <test-method is-config="true" signature="bcConfig()[pri:0, instance:vtiger.ContactsTest.CreateContactWithOrganizationTests@6fa51cd4]" started-at="2023-08-16T07:36:11 IST" name="bcConfig" finished-at="2023-08-16T07:37:35 IST" duration-ms="83572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bcConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:vtiger.ContactsTest.CreateContactWithOrganizationTests@6fa51cd4]" started-at="2023-08-16T07:37:35 IST" name="bmConfig" finished-at="2023-08-16T07:38:03 IST" duration-ms="28151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method signature="createContactWithOrg()[pri:0, instance:vtiger.ContactsTest.CreateContactWithOrganizationTests@6fa51cd4]" started-at="2023-08-16T07:38:03 IST" name="createContactWithOrg" finished-at="2023-08-16T07:38:58 IST" duration-ms="55427" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Org link clicked]]>
+            </line>
+            <line>
+              <![CDATA[create org look up image is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Organization created]]>
+            </line>
+            <line>
+              <![CDATA[Contacts link clicked]]>
+            </line>
+            <line>
+              <![CDATA[create contact look up image is clicked]]>
+            </line>
+            <line>
+              <![CDATA[Contact is created]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createContactWithOrg -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:vtiger.ContactsTest.CreateContactWithOrganizationTests@6fa51cd4]" started-at="2023-08-16T07:38:58 IST" name="amConfig" finished-at="2023-08-16T07:39:02 IST" duration-ms="3897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method is-config="true" signature="bmConfig()[pri:0, instance:vtiger.ContactsTest.CreateContactWithOrganizationTests@6fa51cd4]" started-at="2023-08-16T07:39:02 IST" name="bmConfig" finished-at="2023-08-16T07:39:05 IST" duration-ms="2479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bmConfig -->
+        <test-method signature="demotest()[pri:0, instance:vtiger.ContactsTest.CreateContactWithOrganizationTests@6fa51cd4]" started-at="2023-08-16T07:39:05 IST" name="demotest" finished-at="2023-08-16T07:39:05 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demotest -->
+        <test-method is-config="true" signature="amConfig()[pri:0, instance:vtiger.ContactsTest.CreateContactWithOrganizationTests@6fa51cd4]" started-at="2023-08-16T07:39:05 IST" name="amConfig" finished-at="2023-08-16T07:39:09 IST" duration-ms="4189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amConfig -->
+        <test-method is-config="true" signature="acConfig()[pri:0, instance:vtiger.ContactsTest.CreateContactWithOrganizationTests@6fa51cd4]" started-at="2023-08-16T07:39:09 IST" name="acConfig" finished-at="2023-08-16T07:39:10 IST" duration-ms="1134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acConfig -->
+        <test-method is-config="true" signature="asConfig()[pri:0, instance:vtiger.ContactsTest.CreateContactWithOrganizationTests@6fa51cd4]" started-at="2023-08-16T07:39:11 IST" name="asConfig" finished-at="2023-08-16T07:39:11 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- asConfig -->
+      </class> <!-- vtiger.ContactsTest.CreateContactWithOrganizationTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
