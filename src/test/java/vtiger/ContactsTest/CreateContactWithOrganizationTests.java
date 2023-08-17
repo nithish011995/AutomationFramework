@@ -83,7 +83,7 @@ public class CreateContactWithOrganizationTests  extends BaseClass{
 		//driver.findElement(By.name("lastname")).sendKeys(LASTNAME);
 		CreateNewContactPage cncp=new CreateNewContactPage(driver);
 		cncp.createContact(driver, LASTNAME, OrgName);
-		Reporter.log("Contact is created");
+		Reporter.log("Contact Is Created");
 		
 		//driver.findElement(By.xpath("//input[@name='account_name']/following-sibling::img[@title='Select']")).click();
 		
