@@ -3,7 +3,7 @@
 <suite name="Suite">
 <groups>
 <run>
-<exclude name="RegressionSuite"></exclude>
+<include name="RegressionSuite"></include>
 
 </run>
 </groups>
